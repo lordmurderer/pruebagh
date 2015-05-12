@@ -10,6 +10,6 @@ public class prueba {
     public String nick= "Murder";
     public String random= "hola";
     public String r="hi";
-    public String r="hello";
+    public String r2="hello";
 
 }
