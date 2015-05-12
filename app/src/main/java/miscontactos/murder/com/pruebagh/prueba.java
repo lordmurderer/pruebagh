@@ -9,5 +9,6 @@ public class prueba {
     public String apellido= "lopez";
     public String nick= "Murder";
     public String random= "hola";
+    public String r="hi";
 
 }
