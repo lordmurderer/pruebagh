@@ -11,5 +11,6 @@ public class prueba {
     public String random= "hola";
     public String r="hi";
     public String r2="hello";
+    public String r3="hello";
 
 }
